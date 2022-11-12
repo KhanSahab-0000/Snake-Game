@@ -30,7 +30,7 @@
     position: absolute;
     top: 9px;
     right: 200px;
-    font-size: 39px;
+    font-size: 2.4375em;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
@@ -39,7 +39,7 @@
     position: absolute;
     top: 59px;
     right: 140px;
-    font-size: 39px;
+    font-size: 2.4375em;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
@@ -48,7 +48,7 @@
     position: absolute;
     top: 110px;
     right: 60px;
-    font-size: 39px;
+    font-size: 2.4375em;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
